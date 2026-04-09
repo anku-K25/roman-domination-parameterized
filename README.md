@@ -21,3 +21,7 @@ Standard dynamic programming for Roman Domination operates in $\mathcal{O}(5^{tw
 - Python 3.8+
 - NetworkX
 - Matplotlib
+## Usage:
+To generate a random chordal graph and approximate its treewidth, 
+run:
+python main.py
